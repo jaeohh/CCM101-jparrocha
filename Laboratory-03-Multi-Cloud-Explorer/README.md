@@ -28,7 +28,7 @@ cat /etc/os-release
 lscpu
 free -h
 df -h /
-```text
+```
 ### Possible Cloud Services for Migration
 
 If this server were migrated to the cloud, it could be hosted using a virtual machine service from any of the three major cloud providers.
