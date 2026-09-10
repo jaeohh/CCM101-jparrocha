@@ -56,3 +56,16 @@ I recommend AWS because the company needs worldwide availability, scalability, a
 ## Overall Recommendation
 
 The best cloud platform depends on the specific requirements of each organization. GCP is a strong choice for startups and AI-focused organizations, Azure is well suited to organizations already using Microsoft technologies, and AWS is a strong option for large global applications requiring a broad range of scalable services.
+
+---
+
+## Client Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | Google Cloud Platform (GCP) | GCP provides scalable and managed services that can help startups develop applications while controlling infrastructure management. |
+| Enterprise Organization | Amazon Web Services (AWS) | AWS offers a broad range of services and global infrastructure suitable for organizations with complex and large-scale requirements. |
+| Microsoft Environment | Microsoft Azure | Azure provides strong integration with Windows Server, Microsoft 365, and Microsoft Entra ID, making it suitable for Microsoft-based environments. |
+| AI / Machine Learning | Google Cloud Platform (GCP) | GCP provides strong AI and machine learning capabilities through services such as Vertex AI and scalable computing infrastructure. |
+| Kubernetes Deployment | Google Cloud Platform (GCP) | Google Kubernetes Engine (GKE) provides a managed Kubernetes platform for deploying and managing containerized applications. |
+| Global Web Application | Amazon Web Services (AWS) | AWS provides global infrastructure and scalable services that can support highly available web applications serving users around the world. |
