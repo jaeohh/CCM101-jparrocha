@@ -37,3 +37,15 @@ I would personally choose Google Cloud because of its strong capabilities in AI,
 ## Summary
 
 AWS, Azure, and GCP all provide essential cloud computing services such as compute, storage, networking, and identity management. However, each platform has different strengths, so the best choice depends on the organization's technical requirements, existing technologies, budget, and business goals.
+
+---
+
+## Cloud Service Reference Table
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
